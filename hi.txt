@@ -1,4 +1,4 @@
 nihao
 hello everyone this is JimGreen!
 2019-07-17 10:42:39yyy
-冲突测试 person2
+解决冲突：冲突测试 person2+冲突测试 person1
