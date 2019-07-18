@@ -1,0 +1,3 @@
+[submodule "hellogit"]
+	path = hellogit
+	url = git@github.com:frankyangkun/hellogit.git
